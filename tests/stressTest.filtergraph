@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FILTERGRAPH>
+  <FILTER uid="1" x="0.5" y="0.10000000149011611938" uiLastX="" uiLastY="">
+    <PLUGIN name="Audio Input" descriptiveName="" format="Internal" category="I/O devices"
+            manufacturer="ROLI Ltd." version="1.0" file="" uid="246006c0"
+            isInstrument="0" fileTime="0" numInputs="0" numOutputs="2" isShell="0"/>
+    <STATE>0.</STATE>
+  </FILTER>
+  <FILTER uid="2" x="0.25" y="0.10000000149011611938" uiLastX="" uiLastY="">
+    <PLUGIN name="Midi Input" descriptiveName="" format="Internal" category="I/O devices"
+            manufacturer="ROLI Ltd." version="1.0" file="" uid="cb5fde0b"
+            isInstrument="0" fileTime="0" numInputs="0" numOutputs="0" isShell="0"/>
+    <STATE>0.</STATE>
+  </FILTER>
+  <FILTER uid="3" x="0.5" y="0.89999997615814208984" uiLastX="" uiLastY="">
+    <PLUGIN name="Audio Output" descriptiveName="" format="Internal" category="I/O devices"
+            manufacturer="ROLI Ltd." version="1.0" file="" uid="724248cb"
+            isInstrument="0" fileTime="0" numInputs="2" numOutputs="0" isShell="0"/>
+    <STATE>0.</STATE>
+  </FILTER>
+  <FILTER uid="4" x="0.21875" y="0.442592592592592593" uiLastX="673" uiLastY="295">
+    <PLUGIN name="BloopOne" format="VST" category="Effect" manufacturer="OO"
+            version="V1.0.0" file="/Users/Tintamar/Library/Audio/Plug-Ins/VST/BloopOne.vst"
+            uid="51697a79" isInstrument="0" fileTime="152d646f6e8" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>160.CMlaKA....fQBMDZ....ADUZ5kG....Y....A.................................................................................................................................................................................</STATE>
+  </FILTER>
+  <FILTER uid="5" x="0.34124999999999999778" y="0.44444444444444441977"
+          uiLastX="374" uiLastY="130">
+    <PLUGIN name="BloopOne" format="VST" category="Effect" manufacturer="OO"
+            version="V1.0.0" file="/Users/Tintamar/Library/Audio/Plug-Ins/VST/BloopOne.vst"
+            uid="51697a79" isInstrument="0" fileTime="152d646f6e8" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>160.CMlaKA....fQBMDZ....ADUZ5kG....Y....A.................................................................................................................................................................................</STATE>
+  </FILTER>
+  <FILTER uid="6" x="0.46500000000000002442" y="0.44629629629629630205"
+          uiLastX="188" uiLastY="124">
+    <PLUGIN name="BloopOne" format="VST" category="Effect" manufacturer="OO"
+            version="V1.0.0" file="/Users/Tintamar/Library/Audio/Plug-Ins/VST/BloopOne.vst"
+            uid="51697a79" isInstrument="0" fileTime="152d646f6e8" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>160.CMlaKA....fQBMDZ....ADUZ5kG....Y....A.................................................................................................................................................................................</STATE>
+  </FILTER>
+  <FILTER uid="7" x="0.59125000000000005329" y="0.4500000000000000111"
+          uiLastX="197" uiLastY="219">
+    <PLUGIN name="BloopOne" format="VST" category="Effect" manufacturer="OO"
+            version="V1.0.0" file="/Users/Tintamar/Library/Audio/Plug-Ins/VST/BloopOne.vst"
+            uid="51697a79" isInstrument="0" fileTime="152d646f6e8" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>160.CMlaKA....fQBMDZ....ADUZ5kG....Y....A.................................................................................................................................................................................</STATE>
+  </FILTER>
+  <FILTER uid="8" x="0.71374999999999999556" y="0.44814814814814812882"
+          uiLastX="" uiLastY="">
+    <PLUGIN name="BloopOne" format="VST" category="Effect" manufacturer="OO"
+            version="V1.0.0" file="/Users/Tintamar/Library/Audio/Plug-Ins/VST/BloopOne.vst"
+            uid="51697a79" isInstrument="0" fileTime="152d646f6e8" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>160.CMlaKA....fQBMDZ....ADUZ5kG....Y....A.................................................................................................................................................................................</STATE>
+  </FILTER>
+  <FILTER uid="9" x="0.21749999999999999889" y="0.55000000000000004441"
+          uiLastX="" uiLastY="">
+    <PLUGIN name="BloopOne" format="VST" category="Effect" manufacturer="OO"
+            version="V1.0.0" file="/Users/Tintamar/Library/Audio/Plug-Ins/VST/BloopOne.vst"
+            uid="51697a79" isInstrument="0" fileTime="152d646f6e8" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>160.CMlaKA....fQBMDZ....ADUZ5kG....Y....A.................................................................................................................................................................................</STATE>
+  </FILTER>
+  <FILTER uid="10" x="0.34124999999999999778" y="0.55000000000000004441"
+          uiLastX="" uiLastY="">
+    <PLUGIN name="BloopOne" format="VST" category="Effect" manufacturer="OO"
+            version="V1.0.0" file="/Users/Tintamar/Library/Audio/Plug-Ins/VST/BloopOne.vst"
+            uid="51697a79" isInstrument="0" fileTime="152d646f6e8" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>160.CMlaKA....fQBMDZ....ADUZ5kG....Y....A.................................................................................................................................................................................</STATE>
+  </FILTER>
+  <FILTER uid="11" x="0.46624999999999999778" y="0.55370370370370369795"
+          uiLastX="" uiLastY="">
+    <PLUGIN name="BloopOne" format="VST" category="Effect" manufacturer="OO"
+            version="V1.0.0" file="/Users/Tintamar/Library/Audio/Plug-Ins/VST/BloopOne.vst"
+            uid="51697a79" isInstrument="0" fileTime="152d646f6e8" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>160.CMlaKA....fQBMDZ....ADUZ5kG....Y....A.................................................................................................................................................................................</STATE>
+  </FILTER>
+  <FILTER uid="12" x="0.59125000000000005329" y="0.55555555555555558023"
+          uiLastX="" uiLastY="">
+    <PLUGIN name="BloopOne" format="VST" category="Effect" manufacturer="OO"
+            version="V1.0.0" file="/Users/Tintamar/Library/Audio/Plug-Ins/VST/BloopOne.vst"
+            uid="51697a79" isInstrument="0" fileTime="152d646f6e8" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>160.CMlaKA....fQBMDZ....ADUZ5kG....Y....A.................................................................................................................................................................................</STATE>
+  </FILTER>
+  <FILTER uid="13" x="0.71499999999999996891" y="0.55000000000000004441"
+          uiLastX="" uiLastY="">
+    <PLUGIN name="BloopOne" format="VST" category="Effect" manufacturer="OO"
+            version="V1.0.0" file="/Users/Tintamar/Library/Audio/Plug-Ins/VST/BloopOne.vst"
+            uid="51697a79" isInstrument="0" fileTime="152d646f6e8" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>160.CMlaKA....fQBMDZ....ADUZ5kG....Y....A.................................................................................................................................................................................</STATE>
+  </FILTER>
+  <CONNECTION srcFilter="1" srcChannel="0" dstFilter="4" dstChannel="0"/>
+  <CONNECTION srcFilter="1" srcChannel="0" dstFilter="5" dstChannel="0"/>
+  <CONNECTION srcFilter="1" srcChannel="0" dstFilter="6" dstChannel="0"/>
+  <CONNECTION srcFilter="1" srcChannel="0" dstFilter="7" dstChannel="0"/>
+  <CONNECTION srcFilter="1" srcChannel="0" dstFilter="8" dstChannel="0"/>
+  <CONNECTION srcFilter="1" srcChannel="0" dstFilter="9" dstChannel="0"/>
+  <CONNECTION srcFilter="1" srcChannel="0" dstFilter="10" dstChannel="0"/>
+  <CONNECTION srcFilter="1" srcChannel="0" dstFilter="11" dstChannel="0"/>
+  <CONNECTION srcFilter="1" srcChannel="0" dstFilter="12" dstChannel="0"/>
+  <CONNECTION srcFilter="1" srcChannel="0" dstFilter="13" dstChannel="0"/>
+  <CONNECTION srcFilter="4" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="5" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="6" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="7" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="8" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="9" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="10" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="11" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="12" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="13" srcChannel="0" dstFilter="3" dstChannel="0"/>
+</FILTERGRAPH>
